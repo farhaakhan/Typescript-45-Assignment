@@ -2,7 +2,7 @@
 //  Be sure to enclose your operations in print statements to see the results.
 
 // 8 test include You should create four lines that look like this:
-// Your output should simply be four lines with the number 8 appearing once on each line.
+//  output should simply be four lines with the number 8 appearing once on each line.
 console.log(5 + 3)
 
 // print result:
